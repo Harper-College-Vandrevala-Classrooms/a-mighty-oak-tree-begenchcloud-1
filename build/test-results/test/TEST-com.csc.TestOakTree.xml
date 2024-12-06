@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestOakTree" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-11-29T17:59:39" hostname="BENS-LAPTOP" time="0.015">
+  <properties/>
+  <testcase name="testTreeTraversal()" classname="com.csc.TestOakTree" time="0.012"/>
+  <testcase name="testAddChildren()" classname="com.csc.TestOakTree" time="0.0"/>
+  <testcase name="testInitialNode()" classname="com.csc.TestOakTree" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
